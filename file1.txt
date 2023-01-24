@@ -1,4 +1,4 @@
-123
+123 will new conflict here
 commit test 
 456
 789.
